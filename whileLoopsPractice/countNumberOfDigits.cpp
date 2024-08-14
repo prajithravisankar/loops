@@ -7,6 +7,7 @@ int main() {
     // 10 - 2;
     // 199 - 3;
     // 0 - 1
+    // -0 - 1
     // -455 - 3
     int numOfDigits = 0;
     int input;
